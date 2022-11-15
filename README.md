@@ -4,7 +4,7 @@ Free tier of [WeMod](https://www.wemod.com) doesn't allow toggling cheats with U
 This AutoHotkey script solves that problem by generating interactable UI for WeMod trainers.
 
 ## Installation  
-1. Download [the latest release](https://github.com/wemod-deck/wemod-deck-ahk/releases/) and extract it into a folder.  
+1. Download [the latest release](https://github.com/wemod-deck/wemod-deck/releases/) and extract it into a folder.  
 2. Install [AutoHotkey (Current Version)](https://autohotkey.com).  
 
 ## Usage
@@ -16,7 +16,6 @@ This AutoHotkey script solves that problem by generating interactable UI for WeM
 6. Press `Run game with WeMod` to start the game.  
 7. Wait for the game to load, then click on the buttons to toggle cheats.  
 
-![image](https://user-images.githubusercontent.com/118170091/201822928-6075297b-608e-4632-be12-83f324373529.png)
+![image](https://user-images.githubusercontent.com/118170091/201878606-b57a2013-38a5-46c0-8ce7-501f06249181.png)
 
-
-![image](https://user-images.githubusercontent.com/118170091/201822812-8bbe2a4b-4a39-467a-b9eb-c0c492a06f5f.png)
+![image](https://user-images.githubusercontent.com/118170091/201878716-f662aca5-a412-4e7f-b1b8-e6d40100d8b2.png)
