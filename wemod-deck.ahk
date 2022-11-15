@@ -66,11 +66,11 @@ DoLogin(GrantType, UserEmail, UserPassword)
 }
 
 
-Gui, 1: New, , WeMod Deck
+Gui, 1: New, , WeMod Deck %WEMOD_DECK_VERSION%
 Gui, 1: Font, s12
 Gui, 1: Add, Text, , Logging in...
 
-Gui, 2: New, , WeMod Deck
+Gui, 2: New, , WeMod Deck %WEMOD_DECK_VERSION%
 Gui, 2: Font, s12
 Gui, 2: Add, Text, , Please log in with your WeMod account first.
 Gui, 2: Add, Text, , Email:
@@ -79,7 +79,7 @@ Gui, 2: Add, Text, , Password:
 Gui, 2: Add, Edit, Password w300 vUserPassword
 Gui, 2: Add, Button, Default w100 gButtonLogin vBtnLogin, Log in
 
-Gui, 3: New, , WeMod Deck
+Gui, 3: New, , WeMod Deck %WEMOD_DECK_VERSION%
 Gui, 3: Font, s12
 Gui, 3: Add, Text, , WeMod Game URL:
 Gui, 3: Add, Edit, vGameUrl w500
