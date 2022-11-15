@@ -85,6 +85,8 @@ Gui, 3: Add, Text, , WeMod Game URL:
 Gui, 3: Add, Edit, vGameUrl w500
 Gui, 3: Add, Button, Default gButtonGenerate vBtnGenerate, Generate Trainer
 Gui, 3: Add, Button, gButtonClear x+10, Clear
+Gui, 3: Font, s10
+Gui, 3: Add, Link, x+10, <a href="https://www.wemod.com/cheats?sort=latest">Game List</a>
 
 Gui, 1: Show, w200 Center
 
