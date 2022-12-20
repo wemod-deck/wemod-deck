@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include libs\JSON.ahk
 
 WEMOD_DECK_URL := "https://github.com/wemod-deck/wemod-deck"
-WEMOD_DECK_VERSION := "1.0"
+WEMOD_DECK_VERSION := "1.1"
 
 WEMOD_CATALOG := {}
 PLATFORM_LABELS := ["Steam", "Xbox", "GOG", "Epic"]
