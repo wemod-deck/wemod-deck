@@ -16,6 +16,6 @@ This AutoHotkey script solves that problem by generating interactable UI for WeM
 6. Press `Run game with WeMod` to start the game.  
 7. Wait for the game to load, then click on the buttons to toggle cheats.  
 
-![image](https://user-images.githubusercontent.com/118170091/201878606-b57a2013-38a5-46c0-8ce7-501f06249181.png)
+![image](https://user-images.githubusercontent.com/118170091/208643821-aa7d06af-3a46-4c66-9364-e8647d4e0844.png)
 
-![image](https://user-images.githubusercontent.com/118170091/201878716-f662aca5-a412-4e7f-b1b8-e6d40100d8b2.png)
+![image](https://user-images.githubusercontent.com/118170091/208644402-b37f2614-956a-4986-a33e-27a0d728c191.png)
